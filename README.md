@@ -1,2 +1,13 @@
 # SQL--Data-Warehouse-Project.
 Building a Data Warehouse Project with SQL With ETL  And Doing analytical work over it..
+this is a warehouse (data) project comprises of all the basic analytical overview with sql
+this project is divided into:
+THREE LAYERS--
+BRONZE :COMPRISES OF RAW ,UNCLEANED DATA WHICH DIRECTLY DERIEVED .
+SILVER : THIS LAYER TRANSFORM THE DATA INTO CLEAN ,ANALYTICAL WORKABLE DATA WHICH HELP TO ANALYSE EASILY..
+GOLD: THIS LAYER GIVES THE REALTION BETWEEN DATA AND HOW IT IS RELATED INTO IT..
+
+
+ABOUT ME:
+HI! I AM DIKSHANT SHARMA ,THIS IS MY FIRST PROJECT HOPE YOU WILL ABLE GRASP THE CORE OF IT..
+THANK YOU FOR READING THISS....
